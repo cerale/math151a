@@ -1,0 +1,17 @@
+falsep
+f(x) = x^6 - x - 1
+Interval: [1, 1.2]
+Step  0 : Approximate root = 1.1119830861   
+Step  1 : Approximate root = 1.1313291761   
+Step  2 : Approximate root = 1.1342279437   
+Step  3 : Approximate root = 1.1346518463   
+Step  4 : Approximate root = 1.1347136108   
+Step  5 : Approximate root = 1.1347226054   
+Step  6 : Approximate root = 1.1347239152   
+Step  7 : Approximate root = 1.1347241059   
+ 
+Approximate root of x^6 - x - 1 is 1.1347241059   
+Error bound =  3.2638042411e-02
+Residual    =  3.3439299041e-07
+Iterations  =  7         
+diary off

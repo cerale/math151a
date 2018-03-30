@@ -1,0 +1,26 @@
+bisect
+f(x) = (x-1)*(x-2)*(x-3)
+Interval: [1.75, 2.96]
+Step  0 : Approximate root = 2.3550000000   
+Step  1 : Approximate root = 2.0525000000   
+Step  2 : Approximate root = 1.9012500000   
+Step  3 : Approximate root = 1.9768750000   
+Step  4 : Approximate root = 2.0146875000   
+Step  5 : Approximate root = 1.9957812500   
+Step  6 : Approximate root = 2.0052343750   
+Step  7 : Approximate root = 2.0005078125   
+Step  8 : Approximate root = 1.9981445312   
+Step  9 : Approximate root = 1.9993261719   
+Step  10 : Approximate root = 1.9999169922   
+Step  11 : Approximate root = 2.0002124023   
+Step  12 : Approximate root = 2.0000646973   
+Step  13 : Approximate root = 1.9999908447   
+Step  14 : Approximate root = 2.0000277710   
+Step  15 : Approximate root = 2.0000093079   
+Step  16 : Approximate root = 2.0000000763   
+ 
+Approximate root of (x-1)*(x-2)*(x-3) is 2.0000000763   
+Error bound =  9.2315673828e-06
+Residual    =  7.6293945384e-08
+Iterations  =  16        
+diary off

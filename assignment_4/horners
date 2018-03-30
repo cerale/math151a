@@ -1,0 +1,9 @@
+horners
+Roots of function f(x) = x^3-2x^2-5: root_vector =
+   2.690687956465637
+diary off
+
+horners
+Roots of function f(x) = x^3 + 3x^2-1: root_vector =
+  -0.652667027313213  -2.879245636644773   0.531912663957986
+diary off

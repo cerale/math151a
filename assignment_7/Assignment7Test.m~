@@ -1,0 +1,33 @@
+%Assignment 7.1 Test
+
+%Curve 1: 
+x=[1,2,5,6,7,8,10,13,17];
+a=[3.0,3.7,3.9,4.2,5.7,6.6,7.1,6.7,4.5];
+fpo=1;
+fpn=-0.67;
+n=8;
+
+[b,c,d] = ClampedCubicSpline(n,x,a,fpo,fpn);
+
+%assign the spline
+Spline = zeros(1,n);
+for i=1:n
+    %Spline(i) =a(i) + b(i)*(x-x(i)) + c(i)*(x-x(i)) + d(i)*(x-x(i))
+    Spline(i) = 2;
+end
+
+%graph spline 1
+
+%Curve 2:
+x2=[17,20,23,24,25,27,27.7]
+a2=[4.5,7.0,6.1,5.6,5.8,5.2,4.1]
+fpo2=3.0;
+fpn2=-4.0;
+n2=6;
+
+[b2,c2,d2] = ClampedCubicSpline(n2,x2,a2,fpo2,fpn2);
+
+%Graph splines 2:
+
+%Curve 3:
+x3

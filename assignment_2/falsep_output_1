@@ -1,0 +1,14 @@
+falsep
+f(x) = (x-1)*(x-2)*(x-3)
+Interval: [1.75, 2.96]
+Step  0 : Approximate root = 2.6658851114   
+Step  1 : Approximate root = 2.1048081271   
+Step  2 : Approximate root = 1.9960068720   
+Step  3 : Approximate root = 2.0000426436   
+Step  4 : Approximate root = 1.9999999993   
+ 
+Approximate root of (x-1)*(x-2)*(x-3) is 1.9999999993   
+Error bound =  2.0178857808e-03
+Residual    =  6.7270411463e-10
+Iterations  =  4         
+diary off

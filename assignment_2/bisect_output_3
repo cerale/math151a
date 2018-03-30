@@ -1,0 +1,27 @@
+bisect
+f(x) = x^6 - x -1
+Interval: [1, 1.2]
+Step  0 : Approximate root = 1.1000000000   
+Step  1 : Approximate root = 1.1500000000   
+Step  2 : Approximate root = 1.1250000000   
+Step  3 : Approximate root = 1.1375000000   
+Step  4 : Approximate root = 1.1312500000   
+Step  5 : Approximate root = 1.1343750000   
+Step  6 : Approximate root = 1.1359375000   
+Step  7 : Approximate root = 1.1351562500   
+Step  8 : Approximate root = 1.1347656250   
+Step  9 : Approximate root = 1.1345703125   
+Step  10 : Approximate root = 1.1346679688   
+Step  11 : Approximate root = 1.1347167969   
+Step  12 : Approximate root = 1.1347412109   
+Step  13 : Approximate root = 1.1347290039   
+Step  14 : Approximate root = 1.1347229004   
+Step  15 : Approximate root = 1.1347259521   
+Step  16 : Approximate root = 1.1347244263   
+Step  17 : Approximate root = 1.1347236633   
+ 
+Approximate root of x^6 - x -1 is 1.1347236633   
+Error bound =  7.6293945317e-07
+Residual    =  4.8873530132e-06
+Iterations  =  17        
+diary off
